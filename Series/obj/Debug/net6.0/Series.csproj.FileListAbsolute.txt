@@ -1,0 +1,15 @@
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\bin\Debug\net6.0\Series.exe
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\bin\Debug\net6.0\Series.deps.json
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\bin\Debug\net6.0\Series.dll
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\bin\Debug\net6.0\ref\Series.dll
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\bin\Debug\net6.0\Series.pdb
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.dll
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\ref\Series.dll
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.pdb
+D:\BootCamp Avanade\Projeto C#\CrudDotNet\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
